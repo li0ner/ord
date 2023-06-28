@@ -1,6 +1,12 @@
 Changelog
 =========
 
+[0.5.2-gm10](https://github.com/gmart7t2/ord/releases/tag/0.5.2-gm10) - 2023-06-28
+----------------------------------------------------------------------------------
+
+### Changed
+- Skip updating the index completely when `--height-limit` is 0.
+
 [0.5.2-gm9](https://github.com/gmart7t2/ord/releases/tag/0.5.2-gm9) - 2023-05-30
 --------------------------------------------------------------------------------
 

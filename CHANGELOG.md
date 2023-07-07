@@ -1,6 +1,12 @@
 Changelog
 =========
 
+[0.7.0-gm4](https://github.com/gmart7t2/ord/releases/tag/0.7.0-gm4) - 2023-07-07
+--------------------------------------------------------------------------------
+
+### Changed
+- Have `ord inscriptions` list negative numbered inscriptions too
+
 [0.7.0-gm3](https://github.com/gmart7t2/ord/releases/tag/0.7.0-gm3) - 2023-07-07
 --------------------------------------------------------------------------------
 

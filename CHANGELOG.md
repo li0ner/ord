@@ -1,6 +1,12 @@
 Changelog
 =========
 
+[0.7.0-gm3](https://github.com/gmart7t2/ord/releases/tag/0.7.0-gm3) - 2023-07-07
+--------------------------------------------------------------------------------
+
+### Changed
+- Don't fail when listing unbound inscriptions
+
 [0.7.0-gm2](https://github.com/gmart7t2/ord/releases/tag/0.7.0-gm2) - 2023-06-28
 --------------------------------------------------------------------------------
 
